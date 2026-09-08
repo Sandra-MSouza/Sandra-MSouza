@@ -238,8 +238,6 @@ sandra@dev-core:~$ _
 
 <img src="https://raw.githubusercontent.com/Sandra-MSouza/Sandra-MSouza/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>⚠️ Ative o workflow do Snake Animation no seu repositório <code>Sandra-MSouza/Sandra-MSouza</code> para esta seção renderizar — veja instruções ao final do arquivo.</sub>
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
