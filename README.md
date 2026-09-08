@@ -42,6 +42,7 @@ protocolo:
 <br clear="right"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 <!-- ===================== TECH STACK ===================== -->
 ## `02` ⟶ TECH STACK
 
@@ -91,6 +92,7 @@ protocolo:
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 <!-- ===================== PROJETOS ===================== -->
 ## `04` ⟶ PROJETOS EM DESTAQUE
 
@@ -174,6 +176,7 @@ protocolo:
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 <!-- ===================== OBJETIVOS ATUAIS (TERMINAL) ===================== -->
 ## `05` ⟶ OBJETIVOS ATUAIS
 
@@ -198,6 +201,7 @@ sandra@dev-core:~$ _
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 <!-- ===================== GITHUB STATS ===================== -->
 ## `06` ⟶ MÉTRICAS DO SISTEMA
 
@@ -226,6 +230,7 @@ sandra@dev-core:~$ _
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 <!-- ===================== SNAKE ANIMATION ===================== -->
 ## `08` ⟶ CONTRIBUTION GRID // LIVE FEED
 
@@ -238,6 +243,7 @@ sandra@dev-core:~$ _
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 <!-- ===================== REDES SOCIAIS ===================== -->
 ## `09` ⟶ CANAIS DE COMUNICAÇÃO
 
