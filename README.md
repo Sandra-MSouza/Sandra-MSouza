@@ -184,7 +184,6 @@ protocolo:
 <div align="center">
 
 ```bash
-sandra@dev-core:~$ cat objetivos_2026.log
 
 [✔] Dominar arquitetura de sistemas distribuídos
 [✔] Publicar contribuições open source relevantes
@@ -193,7 +192,6 @@ sandra@dev-core:~$ cat objetivos_2026.log
 [ ] Certificação em Cloud Architecture (AWS/GCP)
 [ ] Mentorar devs iniciantes na comunidade
 
-sandra@dev-core:~$ echo $STATUS
 >> "Em constante evolução. Compilando o futuro, linha por linha."
 
 sandra@dev-core:~$ _
